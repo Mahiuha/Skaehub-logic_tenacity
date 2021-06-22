@@ -10,3 +10,13 @@ print("sqlite version" + " " + sqlite3.sqlite_version)
 
 conn = sqlite3.connect(database.db)
 c = conn.cursor()
+
+#create query
+search_query = """ SELECT * FROM users """
+
+#execute query with cursor
+c.execute(search_query)
+
+#fetch all
+records = c.fetchall()
+print(records)
