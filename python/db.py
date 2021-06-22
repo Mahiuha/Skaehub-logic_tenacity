@@ -21,7 +21,7 @@ c = conn.cursor()
 
 
 conn.commit()
-#clos
+#fcommented for testing purpose
 #conn.close()
 
 
