@@ -1,7 +1,7 @@
 #importing the SQLite module
 
 import sqlite3
-
+from sqlite3.dbapi2 import Cursor
 #this line of code prints the sqlite version.
 
 print("sqlite version" + " " + sqlite3.sqlite_version)
