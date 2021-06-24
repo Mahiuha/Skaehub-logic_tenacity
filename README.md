@@ -11,6 +11,6 @@ Each directory contains python projects and code that we wrote during our time a
 
 Each member of the group had an individual capstone project, and we have listed the three of them below.
            
-           * **WhatsApp Message Scheduler**
-           * **Currency Converter**
-           * **The Number Guessing Game**
+           - __WhatsApp Message Scheduler__
+           - __Currency Converter__
+           - __The Number Guessing Game__
