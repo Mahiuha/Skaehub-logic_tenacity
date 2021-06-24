@@ -5,4 +5,4 @@
 # Introduction
 
 
-
+Each directory contains python projects and code that we wrote during our time at Skaehub. More detailed and specific READMEs are located in each folder. The focus of these projects were to master computer science concepts and to practice the theory behind python, datatypes, and basic data structures. There is info and trivia questions that we go over in each directory.
