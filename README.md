@@ -19,6 +19,6 @@ Each member of the group had an individual capstone project, and we have listed 
 
 | Directory | Description |
 | --- | --- |
-| Day1 | List all new or modified files |
+| Day1 | Interfacing with SQLite database, we wrote a Python program to create an SQLite database and connect with the database and print the version of the SQLite database. |
 | Day2 | Show file differences that haven't been staged |
 | Day3 | Show file differences that haven't been staged |
