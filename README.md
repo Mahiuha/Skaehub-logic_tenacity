@@ -20,5 +20,5 @@ Each member of the group had an individual capstone project, and we have listed 
 | Directory | Description |
 | --- | --- |
 | Day1 | Interfacing with SQLite database, we wrote a Python program to create an SQLite database and connect with the database and print the version of the SQLite database. |
-| Day2 | Show file differences that haven't been staged |
-| Day3 | Show file differences that haven't been staged |
+| Day2 | Python more confident, interfacing with python modules and libraries, we wrote a a NumPy program to get the dates of yesterday, today and tomorrow.Python Web Scraping: Wrote a Python program to get the number of followers of a given twitter account. |
+| Day3 | Played around with Big data, wrote a Python program to get the top 20 countries' data (Last Update, Country/Region, Confirmed, Deaths, Recovered) of the Novel Coronavirus (COVID-19) from a .csv file. |
