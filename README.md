@@ -14,3 +14,11 @@ Each member of the group had an individual capstone project, and we have listed 
            1. WhatsApp Message Scheduler
            2. Currency Converter
            3. The Number Guessing Game
+
+## Description of Each Directory
+
+| Directory | Description |
+| --- | --- |
+| Day1 | List all new or modified files |
+| Day2 | Show file differences that haven't been staged |
+| Day3 | Show file differences that haven't been staged |
