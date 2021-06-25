@@ -1,6 +1,5 @@
 
-README
-GRoup work
+
 
 # Skaehubs Boot Camp Group Project's
 
