@@ -1,7 +1,6 @@
 from selenium import webdriver
 
-
-handle = input('input your handle here:')
+handle = input('input your handle here: ')
 driver = webdriver.Chrome()
 driver.implicitly_wait(600)
 driver.get('http://twitter.com/'+handle)
